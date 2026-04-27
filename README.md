@@ -1,124 +1,62 @@
 <div align="center">
 <!-- TYPING SVG -->
 <a href="https://nguyenquocanh.io.vn">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=600&amp;lines=Full-Stack+Developer+%7C+Technical+Lead;Nuxt.js+%2B+.NET+10+%2B+MySQL+%7C+HCMC%2C+Vietnam;Building+products+that+matter+at+Gems+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=600&amp;lines=AI+Engineer+%7C+Data+Scientist" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nguyenquocanh.io.vn-7c3aed?style=for-the-badge&amp;logo=firefox&amp;logoColor=white)](https://nguyenquocanh.io.vn)
-[![GitHub](https://img.shields.io/badge/GitHub-nguyenquocanhz-24292e?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/nguyenquocanhz)
-[![Telegram](https://img.shields.io/badge/Telegram-@nqatech2003-229ED9?style=for-the-badge&amp;logo=telegram&amp;logoColor=white)](https://t.me/nqatech2003)
+[![GitHub](https://img.shields.io/badge/GitHub-Dochikhoa2006-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dochikhoa2006)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Dochikhoa2006)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_ID)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_INSTAGRAM_ID)
+[![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white)](https://zalo.me/YOUR_PHONE_NUMBER)
 
 </div>
 
 ---
 
-## `> whoami`
+## `> Introduction`
 
 ```yaml
-name        : Nguyễn Quốc Anh
-alias       : QuocAnh / nqatech
-role        : Developer &amp; Technical Lead
-company     : Gems Software  (Co-founder)
+name        : Do Chi Khoa
+role        : AI Engineer | Data Scientist
 location    : Hồ Chí Minh City, Vietnam 🇻🇳
-education   : Software Applications — HOTEC  |  GPA 3.6 / 4.0  |  TOEIC 575
-started     : "~15 tuổi — tự học web development từ con số 0"
-interests   : [ Developer Tooling, AI x Engineering, HomeLab, Networking ]
+education   : FPT University
+language    : English (IELTS 6.5)  |  French (A1)  | Vietnamese (Native
+interests   : AI Model Developer  |  AI x Engineering  |  HomeLab  |  Networking
 ```
 
 ---
 
-## `> tech_stack --all`
+## `> Technical Stack`
 
-### Frontend
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&amp;logo=nuxtdotjs&amp;logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&amp;logo=vuedotjs&amp;logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&amp;logo=alpinedotjs&amp;logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&amp;logo=bootstrap&amp;logoColor=white)
+### AI & Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### Backend
-![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white)
-![PHP](https://img.shields.io/badge/PHP_MVC-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&amp;logo=go&amp;logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white)
+### Data Engineering & Infrastructure
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Data &amp; DevOps
-![MySQL](https://img.shields.io/badge/MySQL_8-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white)
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_Server-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black)
+### Storing
+![FAISS](https://img.shields.io/badge/FAISS-005fb8?style=for-the-badge&logo=meta&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 
-### AI &amp; Tools
-![Claude API](https://img.shields.io/badge/Claude_API-D4A017?style=flat-square&amp;logo=anthropic&amp;logoColor=black)
-![Gemini](https://img.shields.io/badge/Gemini_2.5_Pro-4285F4?style=flat-square&amp;logo=google&amp;logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&amp;logo=openai&amp;logoColor=white)
+### UI
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
----
-## `> open shopmanguon.com`
-
-<div align="center">
-
-[![ShopMaNguon](https://img.shields.io/badge/ShopMaNguon.com-PHP%20Source%20Code%20Marketplace-7c3aed?style=for-the-badge&logo=php&logoColor=white)](https://shopmanguon.com)
-
-Mình vận hành **[ShopMaNguon.com](https://shopmanguon.com)** — nơi mua bán source code PHP, script web và plugin được kiểm duyệt kỹ thuật bởi developer thực chiến.
-
-> Đang cần một web bán hàng, hệ thống quản lý, hay tool PHP có sẵn?  
-> → **[Xem sản phẩm tại đây](https://shopmanguon.com)**
-
-</div>
----
-## `> ls projects/`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Termix SSH Client
-`Electron 28` `React 18` `xterm.js` `ssh2` `Turborepo`
-
-Desktop SSH terminal thay thế Termius. Plugin system, TypeScript strict IPC. Internal → OSS roadmap.
-
-</td>
-<td width="50%" valign="top">
-
-### ATS Scoring Platform
-`Python` `Flask` `React` `Claude API`
-
-Nền tảng chấm điểm CV đa ngôn ngữ (VI/EN/ZH). Weighted scoring + AI gợi ý cải thiện + tạo email ứng tuyển.
-
-</td>
-</tr>
-</table>
-
----
-
-## `> git log --stats`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=nguyenquocanhz&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;icon_color=a78bfa&amp;text_color=c9d1d9&amp;rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenquocanhz&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c9d1d9&amp;langs_count=8" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=nguyenquocanhz&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=a78bfa&amp;fire=a78bfa&amp;currStreakLabel=a78bfa)
-
-</div>
-
----
-
-## `> cat philosophy.txt`
-
-> *"Không cần giỏi nhất ngay từ đầu — cần đủ tò mò để tiếp tục build."*
-
-Bắt đầu từ một đứa 15 tuổi tự mày mò làm web, giờ là Technical Lead tại startup tự gây dựng. Mình tin vào việc học qua dự án thực tế, viết code sạch, và dùng AI như một công cụ — không phải phép màu.
+### Coding Language
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ---
 
