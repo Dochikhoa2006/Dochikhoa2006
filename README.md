@@ -8,9 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Dochikhoa2006-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dochikhoa2006)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Dochikhoa2006)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_ID)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_INSTAGRAM_ID)
-[![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white)](https://zalo.me/YOUR_PHONE_NUMBER)
+[![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white)](https://zalo.me/0974992020)
 
 </div>
 
@@ -23,7 +21,7 @@ name        : Do Chi Khoa
 role        : AI Engineer | Data Scientist
 location    : Hồ Chí Minh City, Vietnam 🇻🇳
 education   : FPT University
-language    : English (IELTS 6.5)  |  French (A1)  | Vietnamese (Native
+language    : English (IELTS 6.5)  |  French (A1)  | Vietnamese (Native)
 interests   : AI Model Developer  |  AI x Engineering  |  HomeLab  |  Networking
 ```
 
@@ -46,12 +44,12 @@ interests   : AI Model Developer  |  AI x Engineering  |  HomeLab  |  Networking
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Storing
+### RAG & Recommendation Systems
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-005fb8?style=for-the-badge&logo=meta&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
-
-### UI
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Surprise](https://img.shields.io/badge/Surprise-FF6600?style=for-the-badge&logo=python&logoColor=white)
 
 ### Coding Language
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
