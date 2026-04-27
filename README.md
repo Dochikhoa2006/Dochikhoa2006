@@ -7,7 +7,6 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Dochikhoa2006-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dochikhoa2006)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Dochikhoa2006)
 [![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white)](https://zalo.me/0974992020)
 
 </div>
