@@ -20,7 +20,7 @@ name        : Do Chi Khoa
 role        : AI Engineer | Data Scientist
 location    : Hồ Chí Minh City, Vietnam 🇻🇳
 education   : FPT University
-language    : English (IELTS 6.5)  |  French (A1)  | Vietnamese (Native)
+language    : English (IELTS 7.0)  |  French (A1)  | Vietnamese (Native)
 interests   : AI Model Developer  |  AI x Engineering  |  HomeLab  |  Networking
 ```
 
