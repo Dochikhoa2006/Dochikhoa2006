@@ -50,6 +50,11 @@ interests   : AI Model Developer  |  AI x Engineering  |  HomeLab  |  Networking
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Surprise](https://img.shields.io/badge/Surprise-FF6600?style=for-the-badge&logo=python&logoColor=white)
 
+### Development Platforms & Notebooks
+
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
+
 ### Coding Language
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
