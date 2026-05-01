@@ -1,7 +1,7 @@
 <div align="center">
 <!-- TYPING SVG -->
 <a href="https://github.com/Dochikhoa2006">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=600&amp;lines=AI+Engineer+%7C+Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=600&amp;lines=Artificial+Intelligence" alt="Typing SVG" />
 </a>
 
 <br/>
