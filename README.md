@@ -34,6 +34,9 @@ interests   : AI Model Developer  |  AI x Engineering  |  HomeLab  |  Networking
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Surprise](https://img.shields.io/badge/Surprise-FF6600?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 
 ### Data Engineering & Infrastructure
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -42,18 +45,23 @@ interests   : AI Model Developer  |  AI x Engineering  |  HomeLab  |  Networking
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### RAG & Recommendation Systems
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-005fb8?style=for-the-badge&logo=meta&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Surprise](https://img.shields.io/badge/Surprise-FF6600?style=for-the-badge&logo=python&logoColor=white)
+
+### LLM Optimization & Adaptation Techniques.
+
+![RAG](https://img.shields.io/badge/RAG-00A67E?style=for-the-badge&logo=chainlink&logoColor=white)
+![Fine--Tuning](https://img.shields.io/badge/Fine--Tuning-333333?style=for-the-badge&logo=opsgenie&logoColor=white)
+![Prompt--Tuning](https://img.shields.io/badge/Prompt--Tuning-6E40C9?style=for-the-badge&logo=githubactions&logoColor=white)
+![Prompt--Engineering](https://img.shields.io/badge/Prompt--Engineering-FF4B4B?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Development Platforms & Notebooks
 
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143dda?style=for-the-badge&logo=pycharm&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Coding Language
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
