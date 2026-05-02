@@ -48,7 +48,7 @@ interests   : AI Model Developer  |  AI x Engineering  |  HomeLab  |  Networking
 ![FAISS](https://img.shields.io/badge/FAISS-005fb8?style=for-the-badge&logo=meta&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 
-### LLM Optimization & Adaptation Techniques.
+### LLM Optimization & Adaptation Techniques
 
 ![RAG](https://img.shields.io/badge/RAG-00A67E?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Fine--Tuning](https://img.shields.io/badge/Fine--Tuning-333333?style=for-the-badge&logo=opsgenie&logoColor=white)
