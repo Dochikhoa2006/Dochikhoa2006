@@ -45,7 +45,11 @@ interests   : AI Model Developer  |  AI x Engineering  |  HomeLab  |  Networking
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+# Database
 ![FAISS](https://img.shields.io/badge/FAISS-005fb8?style=for-the-badge&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0052FF?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4E3D?style=for-the-badge&logo=qdrant&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 
 ### Data Visualization
