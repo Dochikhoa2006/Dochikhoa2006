@@ -55,8 +55,8 @@ interests   : AI Model Developer  |  AI x Engineering  |  HomeLab  |  Networking
 ![Prompt--Tuning](https://img.shields.io/badge/Prompt--Tuning-6E40C9?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Prompt--Engineering](https://img.shields.io/badge/Prompt--Engineering-FF4B4B?style=for-the-badge&logo=openai&logoColor=white)
 ![Model-Parallelism](https://img.shields.io/badge/Model--Parallelism-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Quantization](https://img.shields.io/badge/Quantization-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Model--Pruning](https://img.shields.io/badge/Model--Pruning-FF6600?style=for-the-badge&logo=fastapi&logoColor=white)
+![Model-Quantization](https://img.shields.io/badge/Quantization-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Model-Pruning](https://img.shields.io/badge/Model--Pruning-FF6600?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Development Platforms & Notebooks
 
