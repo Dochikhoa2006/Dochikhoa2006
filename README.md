@@ -48,6 +48,12 @@ interests   : AI Model Developer  |  AI x Engineering  |  HomeLab  |  Networking
 ![FAISS](https://img.shields.io/badge/FAISS-005fb8?style=for-the-badge&logo=meta&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 
+### Data Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white)
+
 ### LLM Optimization & Adaptation Techniques
 
 ![RAG](https://img.shields.io/badge/RAG-00A67E?style=for-the-badge&logo=chainlink&logoColor=white)
@@ -69,7 +75,6 @@ interests   : AI Model Developer  |  AI x Engineering  |  HomeLab  |  Networking
 ### Coding Language
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ---
 
