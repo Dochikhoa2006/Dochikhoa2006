@@ -49,7 +49,6 @@ interests   : AI Model Developer  |  AI x Engineering  |  HomeLab  |  Networking
 ### Vector Database & Knowledge Graph
 ![FAISS](https://img.shields.io/badge/FAISS-005fb8?style=for-the-badge&logo=meta&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-0052FF?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-FF4E3D?style=for-the-badge&logo=qdrant&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 
 ### Data Visualization
