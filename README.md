@@ -29,7 +29,7 @@ education   : Concordia University
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer" />
 
-<sub>📍 Ho Chi Minh City, Vietnam &nbsp;|&nbsp; Open to collaboration &amp; internship opportunities</sub>
+<sub>📍 Québec, Canada &nbsp;|&nbsp; Open to collaboration &amp; internship opportunities</sub>
 
 </div>
 
