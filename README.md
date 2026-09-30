@@ -18,9 +18,7 @@
 
 ```yaml
 name        : Chi Khoa Do | Kelvin Do
-role        : Generative AI Engineer
-location    : Montreal, Quebec, Canada
-education   : Concordia University
+location    : Canada
 ```
 
 ---
