@@ -114,5 +114,3 @@ Developed an end-to-end Amazon Appstore sentiment-analysis pipeline, from **PySp
 
 I'm interested in **applied AI, LLM systems, machine learning engineering, and opportunities to build impactful software**. I'm happy to connect with engineers, researchers, and recruiters.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chikhoado/)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dochikhoa2006@gmail.com)
