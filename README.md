@@ -94,7 +94,19 @@ Developed an end-to-end Amazon Appstore sentiment-analysis pipeline, from **PySp
 **Results:** `83.1% mean BiGRU accuracy` in shuffled 10-fold cross-validation.  
 **Stack:** `TensorFlow / Keras` `BiGRU` `BiLSTM` `FastText` `PySpark`
 
-**More projects:** [Deep RL for GridWorld](https://github.com/Dochikhoa2006/GridWorld-Deep-Reinforcement-Learning) · [Sleep Disorder Classification](https://github.com/Dochikhoa2006/Sleeping-Disorder-Multi-Classification) · [All repositories](https://github.com/Dochikhoa2006?tab=repositories)
+### 🎮 [Deep Reinforcement Learning for 10×10 GridWorld — DQN, DDQN & Expected SARSA](https://github.com/Dochikhoa2006/GridWorld-Deep-Reinforcement-Learning)
+
+Built and benchmarked an **obstacle-aware navigation agent** in a 10×10 GridWorld using **Deep Q-Network (DQN), Double DQN, and Deep Expected SARSA**. Developed a reproducible workflow for state encoding, Q-value learning, target-network updates, and policy evaluation across different maps.
+
+**Results:** `22,000+ state transitions` · `100 states / 4 actions` · `3 evaluation maps`  
+**Stack:** `Python` `Deep Reinforcement Learning` `DQN` `Double DQN` `Expected SARSA` `Docker`
+
+### 🌙 [Sleep Disorder Multi-Class Prediction — SVM & Gradient Boosting](https://github.com/Dochikhoa2006/Sleeping-Disorder-Multi-Classification)
+
+Developed an end-to-end **multi-class machine learning pipeline** to predict **Healthy, Insomnia, and Sleep Apnea** outcomes from lifestyle and physiological features. Compared **Logistic Regression, polynomial-kernel SVM, and Gradient Boosting**, with data preprocessing, feature engineering, PCA, cross-validation, and containerized inference.
+
+**Results:** `0.88 macro-F1` with Gradient Boosting  
+**Stack:** `Python` `scikit-learn` `SVM` `Gradient Boosting` `PCA` `Docker`
 
 ---
 
