@@ -8,11 +8,6 @@
 **Computer Science (Data Science) @ Concordia University 🇨🇦**  
 **Montréal, Canada · Expected graduation: May 2028**
 
-*I build AI systems people can actually use — from model development and retrieval to evaluation, low-latency serving, and deployment.*
-
-<a href="mailto:dochikhoa2006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Dochikhoa2006?tab=repositories"><img src="https://img.shields.io/badge/My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
-
 **🎯 Open to 2027 AI/ML, Applied AI, and Software Engineering internships**
 
 </div>
