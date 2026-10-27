@@ -48,6 +48,22 @@ I care about turning promising models into **reliable, measurable, real-world so
 
 ---
 
+## 🌱 Leadership & Volunteering
+
+- **Peer Tutor Volunteer — Google Developer Groups on Campus, FPT University** *(Feb 2026 – May 2026)*  
+  Helped fellow students develop **programming, mathematics, and problem-solving skills** through peer discussions, coursework review, and collaborative small-group study sessions.
+
+- **Event Support Volunteer — Concordia University Economics Student Society** *(Sep 2026)*  
+  Assisted with **event setup, attendee check-in, participant guidance, and logistics**, helping create an organized and welcoming student society gathering.
+
+- **Campus Open Day Volunteer — FPT University** *(Sep 2024 – Sep 2025)*  
+  Supported **visitor registration, campus tours, and event coordination**; guided prospective students and families to activities, classrooms, and information booths.
+
+- **Community Volunteer — Local Student Volunteer Group** *(Nov 2024 – Dec 2024)*  
+  Joined a **student-led community cleanup**, helping with litter collection, waste sorting, and upkeep of shared public spaces.
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🩺 [SympScan — Hybrid Medical Graph-RAG Assistant](https://github.com/Dochikhoa2006/Hybrid-Medical-Graph-RAG-Assistant)
