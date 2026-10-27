@@ -10,7 +10,6 @@
 
 *I build AI systems people can actually use — from model development and retrieval to evaluation, low-latency serving, and deployment.*
 
-<a href="https://www.linkedin.com/in/chikhoado/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:dochikhoa2006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Dochikhoa2006?tab=repositories"><img src="https://img.shields.io/badge/My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
 
