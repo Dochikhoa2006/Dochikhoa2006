@@ -3,7 +3,7 @@
 
 # Hi, I'm Chi Khoa (Kelvin) Do 👋
 
-### AI Engineer · Machine Learning · Generative AI / LLM Systems
+### AI Software Engineer · Generative AI / LLM Systems
 
 **Computer Science (Data Science) @ Concordia University 🇨🇦**  
 **Montréal, Canada · Expected graduation: May 2028**
