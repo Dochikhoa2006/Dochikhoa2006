@@ -119,7 +119,7 @@ Developed an end-to-end **multi-class machine learning pipeline** to predict **H
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-- **Languages:** Python, C/C++, Java, SQL, R, Bash
+- **Languages:** Python, C/C++, JavaScript, React/Next.js, Node.js, TypeScript, SQL
 - **AI & ML:** PyTorch, TensorFlow/Keras, scikit-learn, Hugging Face, PEFT/LoRA, RLHF, NLP
 - **LLM & retrieval systems:** Multi-agent architectures, LangGraph, LangChain, BM25, FAISS, ChromaDB, OpenSearch, Neo4j, reranking
 - **Inference & engineering:** FastAPI, ONNX Runtime, Ollama, vLLM, TensorRT, CUDA, Docker, AWS, Azure, CI/CD
