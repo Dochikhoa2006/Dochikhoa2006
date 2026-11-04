@@ -3,8 +3,6 @@
 
 # Hi, I'm Chi Khoa (Kelvin) Do 👋
 
-### AI/ML & Software Engineering
-
 **Bachelor of Computer Science, Major in Data Science — Concordia University 🇨🇦**  
 **Expected graduation: May 2028**
 
