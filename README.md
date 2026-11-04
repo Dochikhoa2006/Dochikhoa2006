@@ -10,8 +10,6 @@
 
 **🎯 Open to 2027 AI/ML, Applied AI, and Software Engineering internships**
 
-[LinkedIn](https://www.linkedin.com/in/chikhoado/) · [Email](mailto:dochikhoa2006@gmail.com)
-
 </div>
 
 ---
