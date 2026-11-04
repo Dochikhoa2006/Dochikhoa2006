@@ -128,5 +128,3 @@ Built a **five-class sentiment analysis pipeline** using **PySpark, FastText, an
 ## 🤝 Let's Connect!
 
 I'm interested in **applied AI, LLM systems, machine learning engineering, and software engineering**—especially opportunities to turn research ideas into dependable, practical products. I enjoy connecting with engineers, researchers, and recruiters.
-
-**[LinkedIn](https://www.linkedin.com/in/chikhoado/) · [GitHub](https://github.com/Dochikhoa2006) · [Email](mailto:dochikhoa2006@gmail.com)**
