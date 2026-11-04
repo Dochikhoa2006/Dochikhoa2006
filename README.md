@@ -3,10 +3,10 @@
 
 # Hi, I'm Chi Khoa (Kelvin) Do 👋
 
-### AI/ML & Software Engineering · Generative AI · LLM Systems
+### AI/ML & Software Engineering
 
 **Bachelor of Computer Science, Major in Data Science — Concordia University 🇨🇦**  
-**Montréal, Canada · CGPA: 3.8/4.3 (A−) · Expected graduation: May 2028**
+**Expected graduation: May 2028**
 
 **🎯 Open to 2027 AI/ML, Applied AI, and Software Engineering internships**
 
