@@ -35,7 +35,7 @@ I enjoy building **end-to-end systems that people can actually use**, with an em
 - Designed and developed **20+ reusable Langflow nodes** for modular AI orchestration, workflow integration, and automated task execution.
 - Conducted **A/B experiments across 200+ clients**, analyzing system performance and comparative outcomes to inform product improvements.
 
-### **Machine Learningr Intern — Truong Thinh Technology Co., Ltd.** | Sep 2024 – Dec 2024
+### **Software Engineer Intern — Truong Thinh Technology Co., Ltd.** | Sep 2024 – Dec 2024
 
 - Built a **Top-K movie recommendation system** using **100K+ ratings across 9K+ movies**, benchmarking **Factorization Machines vs. SVD++** with 10-fold cross-validation.
 - Optimized **ONNX Runtime batch inference** to approximately **0.7s P95 latency under 50+ concurrent sessions**.
