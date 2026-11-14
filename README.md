@@ -6,7 +6,7 @@
 **Bachelor of Computer Science, Major in Data Science — Concordia University 🇨🇦**  
 **Expected graduation: May 2028**
 
-**🎯 Role: AI/ML, Applied AI, and Software Engineering internships**
+**🎯 Role: AI/ML, Applied AI, and Software Engineering (Internship)**
 
 </div>
 
