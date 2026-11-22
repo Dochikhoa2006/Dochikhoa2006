@@ -1,4 +1,4 @@
-## 👨‍💻 About Me
+## 👨‍💻 Curiosity
 
 Explore my background, experience, projects, and technical skills through my interactive Milky Way portfolio!
 
